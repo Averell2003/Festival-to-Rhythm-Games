@@ -11,3 +11,6 @@ MiloHax Discord server.
 
 # What game formats can be found for the songs?
 The song format will be for GH2, GHWoR, RB1, 2, Lego and RB3.
+
+# Want to help me to add the new songs?
+If you want, feel free to help me. It is free and it will help me a lot.
