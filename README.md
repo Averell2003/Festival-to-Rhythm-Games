@@ -6,7 +6,7 @@ Don't make any issues about reporting missing songs. This Repo will be updated f
 So be patient.
 
 # Jnack is banned from this repo
-Jnack is not and will never be welcomed in this repo. This dude doesn't deserve any of my friendship after banning me from the FEstoRB project and from the 
+Jnack is not and will never be welcomed in this repo. This dude doesn't deserve any of my friendship after banning me from the FEStoRB project and from the 
 MiloHax Discord server.
 
 # What game formats can be found for the songs?
