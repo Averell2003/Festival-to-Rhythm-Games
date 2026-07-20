@@ -14,3 +14,6 @@ The song format will be for GH2, GHWoR, RB1, 2, Lego and RB3.
 
 # Want to help me to add the new songs?
 If you want, feel free to help me. It is free and it will help me a lot.
+
+# GH2 and WoR Warning
+For the Festival to GH2 songs, don't forget to pack your songs before playing. because too many unpacked songs may corrupt your GH2 save file.
